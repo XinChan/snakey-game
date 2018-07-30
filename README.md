@@ -4,7 +4,8 @@
 * then you just run earthworm_game.py  
 >python earthworm_game.py 
 * you will see a screen just like picture test.png. 
-  you can control the snake by keyboard up,down,left,right. 
+  you can control the snake by keyboard up,down,left,right  
+  [image](https://github.com/872822645/danxuankuangDemo/blob/master/1.jpg)
   
   
   **#################################################################**
